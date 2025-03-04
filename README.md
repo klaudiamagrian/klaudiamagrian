@@ -4,6 +4,6 @@
 
 💡 Uczę się programowania i poznaję narzędzia takie jak Python, C#, HTML, CSS/SCSS, JavaScript i SQL.
 
-📚 Interesuje mnie połączenie technologii z ekonomią, szczególnie w analizie danych.
+📚 Chcę poszerzać swoją wiedzę i zdobywać doświadczenie w pracy z nowoczesnymi rozwiązaniami IT.
 
 🌱 Na razie skupiam się głównie na projektach związanych ze studiami, ale chętnie poznaję nowe rzeczy i rozwijam swoje umiejętności.
